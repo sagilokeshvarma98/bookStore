@@ -1,0 +1,318 @@
+{
+  "bookTitle": [
+    {
+      "id": 1,
+      "name": "A Teaspoon",
+      "author": "Dina",
+      "price": "INR 600",
+      "image": "book1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Gold Fish",
+      "author": "Donna",
+      "price": "INR 496",
+      "image": "book2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Crow Moon",
+      "author": "Anna",
+      "price": "INR 687",
+      "image": "book3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Girl on Train",
+      "author": "Paula",
+      "price": "INR 578",
+      "image": "book4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tangled",
+      "author": "Disney",
+      "price": "INR 684",
+      "image": "book5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Boring Girls",
+      "author": "sara",
+      "price": "INR 355",
+      "image": "book6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Stranded",
+      "author": "Maclead",
+      "price": "INR 658",
+      "image": "book7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Beauty",
+      "author": "Michele",
+      "price": "INR 368",
+      "image": "book8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Unleash",
+      "author": "Hanna",
+      "price": "INR 587",
+      "image": "book9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gatsby",
+      "author": "F.Scott",
+      "price": "INR 375",
+      "image": "book10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Nightingle",
+      "author": "Sofiya",
+      "price": "INR 587",
+      "image": "book11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Purple Color",
+      "author": "Alice Walker",
+      "price": "INR 414",
+      "image": "book12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tales from wing",
+      "author": "Jean",
+      "price": "INR 356",
+      "image": "book13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Purple hibiscus",
+      "author": "Chimemande",
+      "price": "Inr 357",
+      "image": "book14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Summer nights dream",
+      "author": "William",
+      "price": "INR 254",
+      "image": "book15.jpg"
+    }
+  ],
+  "bookDetails": [
+    {
+      "id": 1,
+      "name": "A Teaspoon",
+      "author": "Dina",
+      "price": "INR 600",
+      "image": "book1.jpg",
+      "description": [
+        "A magical novel about a young Iranian woman lifted from grief by her powerful imagination and love of Western culture.",
+        "Growing up in a small rice-farming village in 1980s Iran, eleven-year-old Saba Hafezi and her twin sister, Mahtab, are captivated by America. They keep lists of English words and collect illegal Life magazines, television shows, and rock music. So when her mother and sister disappear, leaving Saba and her father alone in Iran, Saba is certain that they have moved to America without her. But her parents have taught her that “all fate is written in the blood,” and that twins will live the same life, even if separated by land and sea. As she grows up in the warmth and community of her local village, falls in and out of love, and struggles with the limited possibilities in post-revolutionary Iran, Saba envisions that there is another way for her story to unfold. Somewhere, it must be that her sister is living the Western version of this life. And where Saba’s world has all the grit and brutality of real life under the new Islamic regime, her sister’s experience gives her a freedom and control that Saba can only dream of"
+      ],
+      "pages_no": "654",
+      "type": "PacperBack"
+    },
+    {
+      "id": 2,
+      "name": "The Gold Fish",
+      "author": "Donna",
+      "price": "INR 496",
+      "image": "book2.jpg",
+      "description": [
+        "Winner of the Pulitzer Prize for Fiction 2014",
+        "Aged thirteen, Theo Decker, son of a devoted mother and a reckless, largely absent father, survives an accident that otherwise tears his life apart. Alone and rudderless in New York, he is taken in by the family of a wealthy friend. He is tormented by an unbearable longing for his mother, and down the years clings to the thing that most reminds him of her: a small, strangely captivating painting that ultimately draws him into the criminal underworld. As he grows up, Theo learns to glide between the drawing rooms of the rich and the dusty antiques store where he works. He is alienated and in love - and his talisman, the painting, places him at the centre of a narrowing, ever more dangerous circle.",
+        "The Goldfinch is a haunted odyssey through present-day America and a drama of enthralling power. Combining unforgettably vivid characters and thrilling suspense, it is a beautiful, addictive triumph - a sweeping story of loss and obsession, of survival and self-invention, of the deepest mysteries of love, identity and fate."
+      ],
+      "pages_no": "379",
+      "type": "Paperback"
+    },
+    {
+      "id": 3,
+      "name": "Crow Moon",
+      "author": "Anna",
+      "price": "INR 687",
+      "image": "book3.jpg",
+      "description": [
+        "Danny is a fun-loving 16-year-old looking for a father figure and falling in love with a different girl every day. He certainly doesn't want to follow in his mum's witchy footsteps.",
+        "Just as his community is being threatened by gangs intent on finding a lucrative power source to sell to the world, Danny discovers he is stunningly powerful. And when he falls for Saba, a gorgeous but capricious girl sorceress, he thinks maybe the witch thing might not be such a bad idea...",
+        "But what cost will Danny pay as, with his community on the brink of war, he finds that love and sorcery are more dangerous than he ever imagined?",
+        "Wickedness and passion combine in this coming-of-age adventure."
+      ],
+      "pages_no": "359",
+      "type": "Paperback"
+    },
+    {
+      "id": 4,
+      "name": "Girl on Train",
+      "author": "Paula",
+      "price": "INR 578",
+      "image": "book4.jpg",
+      "description": [
+        "Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train.."
+      ],
+      "pages_no": "564",
+      "type": "HardCover"
+    },
+    {
+      "id": 5,
+      "name": "Tangled",
+      "author": "Disney",
+      "price": "INR 684",
+      "image": "book5.jpg",
+      "description": [
+        "Drew Evans is a winner. Handsome and arrogant, he makes multimillion dollar business deals and seduces New York’s most beautiful women with just a smile. He has loyal friends and an indulgent family. So why has he been shuttered in his apartment for seven days, miserable and depressed?"
+      ],
+      "pages_no": "498",
+      "type": "HardCover"
+    },
+    {
+      "id": 6,
+      "name": "Boring Girls",
+      "author": "sara",
+      "price": "INR 355",
+      "image": "book6.jpg",
+      "description": [
+        "Rachel feels like she doesn’t fit in — until she finds heavy metal and meets Fern, a kindred spirit. The two form their own band, but the metal scene turns out to be no different than the misogynist world they want to change. Violent encounters escalate, and the friends decide there’s only one way forward . . ",
+        "A bloodstained journey into the dark heart of the music industry, Boring Girls traces Rachel’s deadly coming-of-age, Fern at her side — as the madness deepens, their band’s success heightens, and their taste for revenge grows ravenous."
+      ],
+      "pages_no": "156",
+      "type": "Paperback"
+    },
+    {
+      "id": 7,
+      "name": "Stranded",
+      "author": "Maclead",
+      "price": "INR 658",
+      "image": "book7.jpg",
+      "description": [
+        "When her friend vanishes from a cruise ship, reporter Darcy St. James isn't satisfied with their explanation that she simply left her job of her own accord. Something isn't lining up, and Darcy believes the only way to find the truth is to put herself in Abby's position. Within days, Darcy learns her friend wasn't the only person to disappear mysteriously. Last summer, a woman vanished under almost identical circumstances. ",
+        "Gage McKenna has taken a summer-long stint leading adventure excursions for the passengers of various cruise lines that dock for a few days of sightseeing. He's surprised to find Darcy working aboard one of the ships, investigating a troubling report. Something sinister is going on and the deeper they dig the more Gage fears they've only discovered the tip of the iceberg."
+      ],
+      "pages_no": "427",
+      "type": "HardCover"
+    },
+    {
+      "id": 8,
+      "name": "The Beauty",
+      "author": "Michele",
+      "price": "INR 368",
+      "image": "book8.jpg",
+      "description": [
+        "An emergency room physician explores how a life of service to others taught her how to heal herself.",
+        "Michele Harper is a female, African American emergency room physician in a profession that is overwhelmingly male and white. Brought up in Washington, DC, in an abusive family, she went to Harvard, where she met her husband. They stayed together through medical school until two months before she was scheduled to join the staff of a hospital in central Philadelphia, when he told her he couldn't move with her. Her marriage at an end, Harper began her new life in a new city, in a new job, as a newly single woman.",
+        "In the ensuing years, as Harper learned to become an effective ER physician, bringing insight and empathy to every patient encounter, she came to understand that each of us is broken—physically, emotionally, psychically. How we recognize those breaks, how we try to mend them, and where we go from there are all crucial parts of the healing process.",
+        "The Beauty in Breaking is the poignant true story of Harper's journey toward self-healing. Each of the patients Harper writes about taught her something important about recuperation and recovery. How to let go of fear even when the future is murky. How to tell the truth when it's simpler to overlook it. How to understand that compassion isn't the same as justice. As she shines a light on the systemic disenfranchisement of the patients she treats as they struggle to maintain their health and dignity, Harper comes to understand the importance of allowing ourselves to make peace with the past as we draw support from the present. In this hopeful, moving, and beautiful book, she passes along the precious, necessary lessons that she has learned as a daughter, a woman, and a physician."
+      ],
+      "pages_no": "725",
+      "type": "Paperback"
+    },
+    {
+      "id": 9,
+      "name": "Unleash",
+      "author": "Hanna",
+      "price": "INR 587",
+      "image": "book9.jpg",
+      "description": [
+        "Payne, twin sister of Vishous, is cut from the same dark, seductive cloth as her brother. Imprisoned for eons by their mother, the Scribe Virgin, she finally frees herself - only to face a devastating injury.",
+        "Number-one New York Times best-selling author J.R. Ward's thrilling new novel in the Black Dagger Brotherhood series."
+      ],
+      "pages_no": "585",
+      "type": "HardCover"
+    },
+    {
+      "id": 10,
+      "name": "Gatsby",
+      "author": "F.Scott",
+      "price": "INR 375",
+      "image": "book10.jpg",
+      "description": [
+        "The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted 'gin was the national drink and sex the national obsession,' it is an exquisitely crafted tale of America in the 1920s.",
+        "The Great Gatsby is one of the great classics of twentieth-century literature."
+      ],
+      "pages_no": "498",
+      "type": "HardCover"
+    },
+    {
+      "id": 11,
+      "name": "Nightingle",
+      "author": "Sofiya",
+      "price": "INR 587",
+      "image": "book11.jpg",
+      "description": [
+        "In the quiet village of Carriveau, Vianne Mauriac says good-bye to her husband, Antoine, as he heads for the Front. She doesn’t believe that the Nazis will invade France…but invade they do, in droves of marching soldiers, in caravans of trucks and tanks, in planes that fill the skies and drop bombs upon the innocent. When a German captain requisitions Vianne’s home, she and her daughter must live with the enemy or lose everything. Without food or money or hope, as danger escalates all around them, she is forced to make one impossible choice after another to keep her family alive.",
+        "Vianne’s sister, Isabelle, is a rebellious eighteen-year-old, searching for purpose with all the reckless passion of youth. While thousands of Parisians march into the unknown terrors of war, she meets Gaëtan, a partisan who believes the French can fight the Nazis from within France, and she falls in love as only the young can…completely. But when he betrays her, Isabelle joins the Resistance and never looks back, risking her life time and again to save others.",
+        "With courage, grace and powerful insight, bestselling author Kristin Hannah captures the epic panorama of World War II and illuminates an intimate part of history seldom seen: the women’s war. The Nightingale tells the stories of two sisters, separated by years and experience, by ideals, passion and circumstance, each embarking on her own dangerous path toward survival, love, and freedom in German-occupied, war-torn France—a heartbreakingly beautiful novel that celebrates the resilience of the human spirit and the durability of women. It is a novel for everyone, a novel for a lifetime."
+      ],
+      "pages_no": "221",
+      "type": "Paperback"
+    },
+    {
+      "id": 12,
+      "name": "Purple Color",
+      "author": "Alice Walker",
+      "price": "INR 414",
+      "image": "book12.jpg",
+      "description": [
+        "Winner of the Pulitzer Prize and the National Book Award. Alice Walker's iconic modern classic is now a Penguin Book.",
+        "A powerful cultural touchstone of modern American literature, The Color Purple depicts the lives of African American women in early twentieth-century rural Georgia. Separated as girls, sisters Celie and Nettie sustain their loyalty to and hope in each other across time, distance and silence. Through a series of letters spanning twenty years, first from Celie to God, then the sisters to each other despite the unknown, the novel draws readers into its rich and memorable portrayals of Celie, Nettie, Shug Avery and Sofia and their experience. The Color Purple broke the silence around domestic and sexual abuse, narrating the lives of women through their pain and struggle, companionship and growth, resilience and bravery. Deeply compassionate and beautifully imagined, Alice Walker's epic carries readers on a spirit-affirming journey towards redemption and love."
+      ],
+      "pages_no": "159",
+      "type": "HardCover"
+    },
+    {
+      "id": 13,
+      "name": "Tales from wing",
+      "author": "Jean",
+      "price": "INR 356",
+      "image": "book13.jpg",
+      "description": [
+        "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Hephaestus Books represents a new publishing paradigm, allowing disparate content sources to be curated into cohesive, relevant, and informative books. To date, this content has been curated from Wikipedia articles and images under Creative Commons licensing, although as Hephaestus Books continues to increase in scope and dimension, more licensed and public domain content is being added. We believe books such as this represent a new and exciting lexicon in the sharing of human knowledge. This particular book contains chapters focused on Earthsea, Earthsea books, Earthsea novels, Earthsea characters, Earthsea locations, and Earthsea short stories. More info: Earthsea is a fictional realm originally created by Ursula K. Le Guin for her short story 'The Word of Unbinding,' published in 1964. Earthsea became the setting for a further six books, beginning with A Wizard of Earthsea, first published in 1968, and continuing with The Tombs of Atuan, The Farthest Shore, Tehanu, Tales from Earthsea and The Other Wind. All are set in the world of Earthsea, as are (to date) seven short stories by Le Guin, two of which are not collected in any of these books."
+      ],
+      "pages_no": "785",
+      "type": "Paperback"
+    },
+    {
+      "id": 14,
+      "name": "Purple hibiscus",
+      "author": "Chimemande",
+      "price": "Inr 357",
+      "image": "book14.jpg",
+      "description": [
+        "Fifteen-year-old Kambili and her older brother Jaja lead a privileged life in Enugu, Nigeria. They live in a beautiful house, with a caring family, and attend an exclusive missionary school. They're completely shielded from the troubles of the world. Yet, as Kambili reveals in her tender-voiced account, things are less perfect than they appear. Although her Papa is generous and well respected, he is fanatically religious and tyrannical at home—a home that is silent and suffocating.",
+        "As the country begins to fall apart under a military coup, Kambili and Jaja are sent to their aunt, a university professor outside the city, where they discover a life beyond the confines of their father’s authority. Books cram the shelves, curry and nutmeg permeate the air, and their cousins’ laughter rings throughout the house. When they return home, tensions within the family escalate, and Kambili must find the strength to keep her loved ones together.",
+        "Purple Hibiscus is an exquisite novel about the emotional turmoil of adolescence, the powerful bonds of family, and the bright promise of freedom."
+      ],
+      "pages_no": "231",
+      "type": "HardCover"
+    },
+    {
+      "id": 15,
+      "name": "Summer nights dream",
+      "author": "William",
+      "price": "INR 254",
+      "image": "book15.jpg",
+      "description": [
+        "This book go through the hypothetical world of a great english author william shakespeare with the beatutiful use of sensible words which gives you a great world of imagination."
+      ],
+      "pages_no": "458",
+      "type": "HardCover"
+    }
+  ],
+  "contact": [
+    {
+      "name": "lokesh",
+      "email": "lokesh.sagi@yahoo.com",
+      "phoneNumber": "9908193918",
+      "instagramId": "lokeshvarma",
+      "id": 1
+    }
+  ]
+}
