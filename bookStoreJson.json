@@ -313,6 +313,20 @@
       "phoneNumber": "9908193918",
       "instagramId": "lokeshvarma",
       "id": 1
+    },
+    {
+      "name": "Rohan varma ",
+      "email": "rohanvarma94@gmail.com",
+      "phoneNumber": "8885457980",
+      "instagramId": "rohan_varma",
+      "id": 2
+    },
+    {
+      "name": "Sujan varma",
+      "email": "sujanvarma@gmail.com",
+      "phoneNumber": "9586485623",
+      "instagramId": "sujan_varma",
+      "id": 3
     }
   ]
 }

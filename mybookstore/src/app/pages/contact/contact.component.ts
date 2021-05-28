@@ -13,6 +13,7 @@ export class ContactComponent implements OnInit {
   email:any;
   phone_number:any;
   insta_id:any;
+  hide:boolean=false
   ngOnInit(): void {
   }
 
@@ -29,6 +30,7 @@ export class ContactComponent implements OnInit {
       }
       this.bc.postData(obj).subscribe(
         ()=>{
+          this.hide=true
           this.name=""
           this.email = ""
           this.phone_number = ""
