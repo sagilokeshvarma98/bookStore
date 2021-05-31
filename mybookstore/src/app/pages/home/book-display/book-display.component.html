@@ -6,8 +6,11 @@
               <h5 class="card-title">{{title.name}}</h5>
               <p class="card-text">
                   {{title.author}} <br>
-                  {{title.price}}
+                  <del>
+                    {{title.price | currency:"INR"}}
+                  </del>
               </p>
+              <p class="card-text text text-danger">({{title.price | discount | currency:"INR"}})</p>
             </div>
           </div>
         </div>

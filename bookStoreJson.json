@@ -4,105 +4,105 @@
       "id": 1,
       "name": "A Teaspoon",
       "author": "Dina",
-      "price": "INR 600",
+      "price": "600",
       "image": "book1.jpg"
     },
     {
       "id": 2,
       "name": "The Gold Fish",
       "author": "Donna",
-      "price": "INR 496",
+      "price": "496",
       "image": "book2.jpg"
     },
     {
       "id": 3,
       "name": "Crow Moon",
       "author": "Anna",
-      "price": "INR 687",
+      "price": "687",
       "image": "book3.jpg"
     },
     {
       "id": 4,
       "name": "Girl on Train",
       "author": "Paula",
-      "price": "INR 578",
+      "price": "578",
       "image": "book4.jpg"
     },
     {
       "id": 5,
       "name": "Tangled",
       "author": "Disney",
-      "price": "INR 684",
+      "price": "684",
       "image": "book5.jpg"
     },
     {
       "id": 6,
       "name": "Boring Girls",
       "author": "sara",
-      "price": "INR 355",
+      "price": "355",
       "image": "book6.jpg"
     },
     {
       "id": 7,
       "name": "Stranded",
       "author": "Maclead",
-      "price": "INR 658",
+      "price": "658",
       "image": "book7.jpg"
     },
     {
       "id": 8,
       "name": "The Beauty",
       "author": "Michele",
-      "price": "INR 368",
+      "price": "368",
       "image": "book8.jpg"
     },
     {
       "id": 9,
       "name": "Unleash",
       "author": "Hanna",
-      "price": "INR 587",
+      "price": "587",
       "image": "book9.jpg"
     },
     {
       "id": 10,
       "name": "Gatsby",
       "author": "F.Scott",
-      "price": "INR 375",
+      "price": "375",
       "image": "book10.jpg"
     },
     {
       "id": 11,
       "name": "Nightingle",
       "author": "Sofiya",
-      "price": "INR 587",
+      "price": "587",
       "image": "book11.jpg"
     },
     {
       "id": 12,
       "name": "Purple Color",
       "author": "Alice Walker",
-      "price": "INR 414",
+      "price": "414",
       "image": "book12.jpg"
     },
     {
       "id": 13,
       "name": "Tales from wing",
       "author": "Jean",
-      "price": "INR 356",
+      "price": "356",
       "image": "book13.jpg"
     },
     {
       "id": 14,
       "name": "Purple hibiscus",
       "author": "Chimemande",
-      "price": "Inr 357",
+      "price": "357",
       "image": "book14.jpg"
     },
     {
       "id": 15,
       "name": "Summer nights dream",
       "author": "William",
-      "price": "INR 254",
+      "price": "254",
       "image": "book15.jpg"
     }
   ],
@@ -327,6 +327,35 @@
       "phoneNumber": "9586485623",
       "instagramId": "sujan_varma",
       "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "bookId": 1,
+      "name": "lokesh",
+      "comment": "What an amazing book. Loved it!!!!!",
+      "emailId": "lokeshsagi@yahoo.com"
+    },
+    {
+      "id": 39155,
+      "name": "Lokesh",
+      "emailId": "lokeshsagi@yahoo.com",
+      "comment": "What a wonderful book.",
+      "bookId": "3"
+    },
+    {
+      "id": 36043,
+      "name": "lokesh",
+      "emailId": "varma@gmail.com",
+      "comment": "hello, nice book. wonderful read.",
+      "bookId": "1"
+    },
+    {
+      "name": "lokesh",
+      "emailId": "lokeshvarma@yahoo.com",
+      "comment": "Hello, thanks for the info",
+      "bookId": "1",
+      "id": 39156
     }
   ]
 }

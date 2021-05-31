@@ -1,41 +1,54 @@
-<img src="http://localhost:8090/{{Content.image}}" alt="">
-<div>
-    <table>
-        <tr>
-            <td>
-                Name 
-            </td>
-            <td>
-                {{Content.name}}
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Author 
-            </td>
-            <td>
-                {{Content.author}}
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Price 
-            </td>
-            <td>
-                {{Content.price}}
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Book Type 
-            </td>
-            <td>
-                {{Content.type}}
-            </td>
-        </tr>
-    </table>
-   
-    <p  *ngFor="let ele of Content.description">
-        {{ele}} <br>
-    </p>
+<div class="row">
+    <div class="col-sm-4 imgClass">
+        <img src="http://localhost:8090/{{Content.image}}" alt="">
+    </div>
+    <div class="col-sm-8 imgClass1">
+        <div id="contentDiv">
+            <table>
+                <tr>
+                    <td>
+                        Name 
+                    </td>
+                    <td>
+                        {{Content.name}}
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Author 
+                    </td>
+                    <td>
+                        {{Content.author}}
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Price 
+                    </td>
+                    <td>
+                        {{Content.price}}
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Book Type 
+                    </td>
+                    <td>
+                        {{Content.type}}
+                    </td>
+                </tr>
+            </table>
+            <p  *ngFor="let ele of Content.description">
+                {{ele}} <br>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="comments" *ngFor="let ele of comments">
+    <img src="../../../../assets/user.png" height="20px" style="margin-right: 30px;" alt="">{{ele.name}}
+    <p>{{ele.emailId}}</p>
+    <p>{{ele.comment}}</p>
+</div>
+<div id="commentDiv">
+    <app-book-comments [bookId]="id"></app-book-comments>
 </div>

@@ -1,2 +1,8 @@
 <h2>Best Sellers</h2>
-<app-book-display *ngFor="let ele of titles" [element]='ele'></app-book-display>
+<select name="price" [(ngModel)]="price_range">
+    <option value="High">High</option>
+    <option value="Medium">Medium</option>
+    <option value="Low">Low</option>
+    <option value="All">All</option>
+</select>
+<app-book-display *ngFor="let ele of titles | filter:price_range" [element]='ele'></app-book-display>

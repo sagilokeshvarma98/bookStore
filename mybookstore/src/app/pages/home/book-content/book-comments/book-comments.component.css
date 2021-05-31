@@ -1,0 +1,15 @@
+.commentForm{
+    width: 500px;
+    border: 3px ridge lightslategray;
+    padding: 10px;
+    margin:10px;
+}
+
+
+.nameDiv , .emailDiv , .commentDiv{
+    margin-bottom: 20px;
+}
+
+.btnDiv{
+    text-align: center;
+}

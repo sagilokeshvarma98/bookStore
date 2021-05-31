@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { BookContentService } from 'src/app/services/book-content.service';
+import { CommentsService } from 'src/app/services/comments.service';
 
 @Component({
   selector: 'app-book-content',
@@ -8,10 +9,10 @@ import { BookContentService } from 'src/app/services/book-content.service';
   styleUrls: ['./book-content.component.css']
 })
 export class BookContentComponent implements OnInit {
-
-  constructor(public route:ActivatedRoute, public cs:BookContentService) { }
+  Content:any={}
+  constructor(public route:ActivatedRoute, public cs:BookContentService, private comment:CommentsService) { }
   id:any
-  Content:any
+  comments:any
   ngOnInit(): void {
     this.route.params.subscribe(
       (idNo)=>{
@@ -22,6 +23,12 @@ export class BookContentComponent implements OnInit {
     )
       this.cs.getBookContent(this.id).subscribe(
         (data)=>this.Content = data
+      )
+
+      this.comment.getComments(this.id).subscribe(
+        (data)=>this.comments = data,
+        (err)=>console.log(err.message)
+                
       )
   }
 

@@ -1,0 +1,38 @@
+<div class="commentForm">
+    <form [formGroup]='commentForm' (submit)='postComment()'>
+        <div class="nameDiv">
+            Enter your name : <div *ngIf='commentForm.controls.name.hasError("required")'>
+                <p class="text text-danger">*Required</p>
+            </div>
+            <div *ngIf="commentForm.controls.name.errors?.minlength">
+                <p class="text text-info">*Minimum three characters</p>
+            </div>
+             <input type="text" class="form-control" formControlName='name'>
+            
+        </div>
+        <div class="emailDiv">
+            Enter your Email : <div *ngIf="commentForm.controls.emailId.hasError('required')||commentForm.controls.emailId.hasError('pattern')">
+                <p class="text text-danger">*Not valid</p>
+            </div>
+             <input type="email" class="form-control" formControlName='emailId'>
+            
+        </div>
+        <div class="commentDiv">
+            <h6>Write a comment : </h6>
+            <div *ngIf="commentForm.controls.comment.hasError('required')">
+                <p class="text text-danger">*Required</p>
+            </div>
+            <div *ngIf="commentForm.controls.comment.errors?.minlength">
+                <p class="text text-info">Write a comment with 20 characters</p>
+            </div>
+            <textarea formControlName='comment' class="form-control"></textarea>
+            
+        </div>
+        <div class="btnDiv" >
+            <button type="submit" [disabled]="!commentForm.valid" class="btn btn-success">Post</button>
+        </div>
+    </form>
+</div>
+
+
+
